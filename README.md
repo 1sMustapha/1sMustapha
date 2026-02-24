@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustapha
 
-<!--
-**1sMustapha/1sMustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Development Student at Groupe Ipirnet  
+💻 Front-End Developer (HTML, CSS, Flexbox)  
+📍 Morocco  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Passionate about building clean and structured web interfaces.  
+Currently strengthening my front-end skills through practical projects.
+
+---
+
+## 🎯 Goals
+- Become a Full-Stack Developer  
+- Master responsive design  
+- Learn JavaScript deeply  
+- Explore new programming languages  
+- Build a professional portfolio
