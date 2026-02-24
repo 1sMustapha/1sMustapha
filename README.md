@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustapha
 
-🎓 Student at Groupe Ipirnet  
+🎓 Student at Groupe IPIRNET  
 📍 Morocco  
 
 ---
